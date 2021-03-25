@@ -4,8 +4,6 @@
 
 个人博客：[aishuohuadebenrenyi](https://aishuohuadebenrenyi.github.io/)
 
-## githubz 资源路径：
-
 ### 一.数据处理
 
 1.[python爬取网易云歌词进行清洗、分词并制作云图](https://github.com/aishuohuadebenrenyi/python-crawl-and-wordcloud)
