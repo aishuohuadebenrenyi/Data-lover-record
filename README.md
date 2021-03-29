@@ -12,6 +12,10 @@
 
 1.[信用卡违约率分析](https://github.com/aishuohuadebenrenyi/MachineLearning_Pratice/blob/main/README.md)
 
+2.[信用卡诈骗分析](https://github.com/aishuohuadebenrenyi/MachineLearning_Pratice/blob/main/README.md)
+
+3.[手写数字识别(深度学习)](https://github.com/aishuohuadebenrenyi/MachineLearning_Pratice/blob/main/README.md)
+
 ### 三.UI相关
 
 1.[表白墙小程序 UI设计](https://github.com/aishuohuadebenrenyi/White-Wall-UI)
